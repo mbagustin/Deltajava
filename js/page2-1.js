@@ -7,10 +7,10 @@ let fadeToBlack = false;
 let alpha = 255;
 
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
-  landdBanner = loadImage('../medium/landdbanner.png');
-  light = loadImage('../medium/shatteredlightener.png');
-  dark = loadImage('../medium/shattereddarkener.png');
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+  landdBanner = loadImage('medium/landdbanner.png');
+  light = loadImage('medium/shatteredlightener.png');
+  dark = loadImage('medium/shattereddarkener.png');
 }
 
 function setup() {

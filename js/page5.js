@@ -6,9 +6,9 @@ var counter = 0;
 var timeToLoadNewPage = false;
 
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
-  channel = loadImage('../medium/channeling.png');
-  banishment = loadImage('../medium/banishment.png');
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+  channel = loadImage('medium/channeling.png');
+  banishment = loadImage('medium/banishment.png');
 }
 
 function keyPressed(){

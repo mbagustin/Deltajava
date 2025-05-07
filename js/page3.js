@@ -9,9 +9,9 @@ var counter = 0;
   
 
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
-  uncracked = loadImage('../medium/uncracked.png');
-  lightning = loadImage('../medium/lightning.png');
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+  uncracked = loadImage('medium/uncracked.png');
+  lightning = loadImage('medium/lightning.png');
 }
 
 function setup() {

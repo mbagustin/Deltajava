@@ -6,8 +6,8 @@ var backgroundSidetoSide;
 var backgroundUpAndDown;
 
 function preload(){
- deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
- worldsedge = loadImage('../medium/summoned.png');
+ deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+ worldsedge = loadImage('medium/summoned.png');
 }
 
 function setup() {

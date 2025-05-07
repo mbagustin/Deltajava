@@ -2,8 +2,8 @@ var landingImage;
 var timeToLoadNewPage = false;
 let deltarune;
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf');
-  landingImage = loadImage('../medium/kingdom.png');
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf');
+  landingImage = loadImage('medium/kingdom.png');
 }
 
 

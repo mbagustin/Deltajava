@@ -4,8 +4,8 @@
 var landingImage
 let deltarune;
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf');
-  landingImage = loadImage('../medium/landingpage.png');
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf');
+  landingImage = loadImage('medium/landingpage.png');
 }
 
 

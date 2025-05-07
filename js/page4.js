@@ -4,10 +4,10 @@ var third;
 var textComeDown;
 var timeToLoadNewPage = false;
 function preload(){
- deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
-  human = loadImage('../medium/human.png');
-  monster = loadImage('../medium/monster.png');
-  prince = loadImage('../medium/darkprince.png');
+ deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+  human = loadImage('medium/human.png');
+  monster = loadImage('medium/monster.png');
+  prince = loadImage('medium/darkprince.png');
 }
 
 function setup() {

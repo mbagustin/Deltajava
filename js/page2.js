@@ -5,10 +5,10 @@ let deltarune;
 let fadeToWhite = false;
 
 function preload(){
-  deltarune = loadFont('../medium/PressStart2P-Regular.ttf'); 
-  landdBanner = loadImage('../medium/landdbanner.png')
-  light = loadImage('../medium/shatteredlightener.png')
-  dark = loadImage('../medium/shattereddarkener.png')
+  deltarune = loadFont('medium/PressStart2P-Regular.ttf'); 
+  landdBanner = loadImage('medium/landdbanner.png')
+  light = loadImage('medium/shatteredlightener.png')
+  dark = loadImage('medium/shattereddarkener.png')
 }
 
 function setup() {
