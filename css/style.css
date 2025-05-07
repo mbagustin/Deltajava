@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+15&family=Pixelify+Sans:wght@400..700&family=Press+Start+2P&display=swap');
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.start-button{
+  position:absolute;
+  margin-top:37%;
+  margin-left:43%;
+  text-decoration: none;
+  font-family: "Press Start 2P";
+  color:rgb(255, 206, 114);
+  stroke:rgb(159, 80, 56);
+  stroke-width: 30px;
+  font-size: 34px;
+  background-color: black;
+  border:solid rgb(159, 80, 56) 4px;
+  padding:2%; 
+}
+
+.blackbutton{
+  position:absolute;
+  margin-top:25%;
+  margin-left:90%;
+  text-decoration: none;
+  font-family: "Press Start 2P";
+  color:black;
+}
+
+.surprisebutton{
+  position:absolute;
+  margin-top:25%;
+  margin-left:90%;
+  text-decoration: none;
+  font-family: "Press Start 2P";
+  color:white;
+}
+.orangebutton{
+  position:absolute;
+  margin-top:25%;
+  margin-left:90%;
+  text-decoration: none;
+  font-family: "Press Start 2P";
+  color: rgb(210, 143, 27);
+}
+
+.minicommentary{
+  position:absolute;
+  font-family: "Press Start 2P";
+  color:white;
+  font-size:15px;
+  margin-left:15%;
+}
